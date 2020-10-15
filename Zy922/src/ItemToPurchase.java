@@ -8,4 +8,5 @@ public class ItemToPurchase {
 	int item3;
 	int item4;
 	int item5;
+	int wow;
 }

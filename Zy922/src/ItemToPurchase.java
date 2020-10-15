@@ -1,4 +1,10 @@
 
 public class ItemToPurchase {
-	String name;
+	String itemName;
+	int itemPrice;
+	int itemQuantity;
+	int item1;
+	
+	
+	
 }

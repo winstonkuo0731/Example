@@ -4,7 +4,7 @@ public class ItemToPurchase {
 	int itemPrice;
 	int itemQuantity;
 	int item1;
-	
+	int item2;
 	
 	
 }

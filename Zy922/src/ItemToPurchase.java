@@ -9,4 +9,6 @@ public class ItemToPurchase {
 	int item4;
 	int item5;
 	int wow;
+	// .project, .classpath, .gitignore push those to repository
+
 }
